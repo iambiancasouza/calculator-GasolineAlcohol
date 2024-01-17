@@ -2,7 +2,7 @@
 
 <img src='/src/assets/gasolinaxalcool.png'>
 
-<h1 align="center"><a href="https://calculator-gasoline-alcohol.vercel.app/">Come here, please 😝</a></h1>
+<h1 align="center"><a href="https://calculator-gasoline-alcohol.vercel.app/">Come here, please 😅</a></h1>
 
 ## ✨ Technologies
 
